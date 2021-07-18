@@ -4,9 +4,9 @@ frontend developer
 
 ## Contact
 
-[github.com/federikos](github.com/federikos)
-[tel: +375297690172](callto:+375297690172)
-[email: rabinzonim@gmail.com](mailto:rabinzonim@gmail.com)
+* <github.com/federikos>
+* tel: [+375297690172](callto:+375297690172)
+* <rabinzonim@gmail.com>
 
 ## Overview
 

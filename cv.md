@@ -16,15 +16,7 @@ Responsible team player addicted to self-education.
 
 ## Skills
 
-* Front-end development (single page applications, static pages, widgets, products, listing)
-* Programming | Markup: HTML / HTML5, CSS / CSS3, SVG, JavaScript (ES6)
-* Engines | Frameworks | Preprocessors: Gatsby, Next.js basics, React / Redux / Redux Thunk, 
-Material-UI, CSS-in-JS
-* CVS | CI | Testing | Build | PM: Git, Github actions, Webpack basics, Node.js / NPM, Jest
-* Adaptive design, Cross-browser compatibility
-* Experience of working with CMS Bitrix, WordPress
-* Addiction to the clean code (ESLint, Prettier)
-* Familiarity with Next.js, Node.js / Express.js, Firebase, headless CMS (Contentful, Wordpress)
+JavaScript (ES6), HTML5, CSS3, Gatsby, Next.js basics, React / Redux / Redux Thunk, Material-UI, CSS-in-JS, SVG, Git, Node.js / Express.js basics, Firebase, headless CMS (Contentful, Wordpress)
 
 ## Relevant Experience
 

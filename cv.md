@@ -20,7 +20,8 @@ JavaScript (ES6), HTML5, CSS3, Gatsby, Next.js basics, React / Redux / Redux Thu
 
 ## Relevant Experience
 
-* UI developing
+* UI developing (SPA, static pages, SSR)
+* Third-party API Integration
 * Bugs and compatibility fixes
 * Setup and usage of NPM libraries, Bitrix, Wordpress modules
 * Tasks planning, status and reporting

@@ -37,6 +37,11 @@ Material-UI, CSS-in-JS
 * Basic e-commerce and sales experience (SEO basics, Google Analytics, Yandex Webmaster, Google 
 Ads)
 
+## Recent projects
+
+* https://zapytai.by
+* https://farmeqplus.net
+
 ## Language Skills
 
 * Russian – Native Speaker

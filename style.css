@@ -1,4 +1,70 @@
+:root {
+  --spacing-unit: 8px;
+  --text-color: #3a3a3a;
+}
+
 .container {
   max-width: 900px;
   margin: 0 auto;
+  padding: var(--spacing-unit);
+}
+
+img {
+  display: block;
+}
+
+body {
+  font-family: Arial, "Helvetica CY", "Nimbus Sans L", sans-serif;
+  color: var(--text-color);
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+footer {
+  margin-bottom: var(--spacing-unit);
+}
+
+footer .container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-areas: "github pahonia year rsschool";
+  column-gap: var(--spacing-unit);
+  row-gap: var(--spacing-unit);
+  justify-items: center;
+  align-items: center;
+}
+
+.github {
+  grid-area: github;
+  justify-self: left;
+}
+
+.pahonia {
+  grid-area: pahonia;
+}
+
+.year {
+  grid-area: year;
+}
+
+.rsschool {
+  grid-area: rsschool;
+  justify-self: right;
+}
+
+@media (max-width: 520px) {
+  footer .container {
+    grid-template-areas: "github" "pahonia" "year" "rsschool";
+    grid-template-columns: 1fr;
+  }
+  .github {
+    grid-area: github;
+    justify-self: center;
+  }
+  .rsschool {
+    grid-area: rsschool;
+    justify-self: center;
+  }
 }
